@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adel-ezzat&label=Profile%20views&color=0e75b6&style=flat" alt="adel-ezzat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adel-ezzat" alt="adel-ezzat" /></a> </p>
-
 - 🔭 I’m currently working on [Albadr Sales (POS)](https://albadrsales.com/en/)
 
 - 🌱 I’m currently learning **Docker, GraphQl, React JS, Magento**
